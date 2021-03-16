@@ -20,3 +20,7 @@ h1 {
 	text-align: center;
 	font-family: Copperplate;
 }
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
