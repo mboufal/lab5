@@ -1,3 +1,4 @@
 table, th, td {
 	border: 1px red dashed
+	border-spacing: 5px 5px 
 }
