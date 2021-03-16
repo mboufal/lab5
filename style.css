@@ -1,6 +1,8 @@
 table, th, td {
 	border: 1px red dashed;
 	border-spacing: 5px 5px;
+	text-align: center;
+	font-size: 20px;
 }
 body {
 	background-color: #DCDCDC;
@@ -9,4 +11,7 @@ body {
 table{
 	height: 100%;
 	width: 75%;
+}
+tr:hover{
+	background-color: #F0F8FF;
 }
