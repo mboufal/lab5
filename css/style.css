@@ -1,3 +1,8 @@
 table, th, td {
-	border: 1px red dashed
+	border: 1px red dashed;
+	border-spacing: 5px 5px;
+}
+body {
+	background-color: green;
+	font-family: Copperplate;
 }
