@@ -3,6 +3,10 @@ table, th, td {
 	border-spacing: 5px 5px;
 }
 body {
-	background-color: green;
-	font-family: Copperplate;
+	background-color: #DCDCDC;
+	font-family: Copperplate, Fantasy;
+}
+table{
+	height: 100%;
+	width: 75%;
 }
