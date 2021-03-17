@@ -4,6 +4,9 @@ table, th, td {
 	text-align: center;
 	font-size: 20px;
 }
+th{
+	font-size: 10px;
+}
 body {
 	background-color: #DCDCDC;
 	font-family: Arial;
